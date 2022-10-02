@@ -1,0 +1,39 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Drought and Famine",
+      "date": "03-10-2022",
+      "description": "Kenya faces hunger crisis as drought wipes out livestock",
+      "image": "https://s4.reutersmedia.net/resources/r/?m=02&d=20220930&t=2&i=1610213630&w=780&fh=&fw=&ll=&pl=&sq=&r=2022-09-30T042301Z_20227_MRPRC26QW90IQEM_RTRMADP_0_CLIMATE-CHANGE-KENYA-HUNGER"
+    },
+    {
+      "id": 2,
+      "title": "Hurricane In Florida",
+      "date": "03-10-2022",
+      "description": "One of the strongest storms ever to hit the U.S. mainland, Hurricane Ian flooded Gulf Coast communities and knocked out power to millions.",
+      "image": "https://s1.reutersmedia.net/resources/r/?m=02&d=20220930&t=2&i=1610298301&w=780&fh=&fw=&ll=&pl=&sq=&r=2022-09-30T220902Z_20233_MRPRC2ZQW9ZYIGF_RTRMADP_0_STORM-IAN-FLORIDA"
+    },
+    {
+      "id": 3,
+      "title": "Bitcoin",
+      "date": "03-10-2022",
+      "description": "The first British coins to feature the image of King Charles have been revealed by the Royal Mint.",
+      "image": "https://s3.reutersmedia.net/resources/r/?m=02&d=20220930&t=2&i=1610275804&w=780&fh=&fw=&ll=&pl=&sq=&r=2022-09-30T164509Z_20230_MRPRC21RW9IFZUO_RTRMADP_0_BRITAIN-ROYALS-COIN"
+    },
+    {
+      "id": 4,
+      "title": "Fashion In Paris",
+      "date": "03-10-2022",
+      "description": "Backstage and collection highlights from Paris.",
+      "image": "https://s3.reutersmedia.net/resources/r/?m=02&d=20220929&t=2&i=1610174324&w=780&fh=&fw=&ll=&pl=&sq=&r=2022-09-29T182614Z_20219_MRPRC2KQW9RQCMZ_RTRMADP_0_FASHION-PARIS-BALMAIN"
+    },
+    {
+      "title": "hh",
+      "date": "10/3/2022, 2:06:04 AM",
+      "description": "bb",
+      "image": "https://image.shutterstock.com/image-vector/set-latest-news-megaphone-label-600w-1019714866.jpg",
+      "id": 5
+    }
+  ]
+}
