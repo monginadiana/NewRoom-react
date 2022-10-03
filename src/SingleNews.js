@@ -6,7 +6,7 @@ export default function SingleNews(){
     console.log(id)
 
     useEffect(()=>{
-        fetch(`http://localhost:3000/news/${id}`)
+        fetch(`https://apiendpoints.herokuapp.com/news/${id}`)
         .then((response)=> response.json())
         .then((data)=>setSingle(data))
         

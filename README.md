@@ -2,6 +2,7 @@
  Ondieki Diana Mongina
 
 # Getting Started with NewsRoom
+The application basically allows you to view news from variou sites and you can read about a single news in details using the readmore feature.
 
 This project was bootstrapped with [MDBootstrap](https://mdbootstrap.com/docs/standard/getting-started/installation/).
 

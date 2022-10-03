@@ -12,13 +12,13 @@ function App() {
   
 
   useEffect(()=>{
-    fetch("http://localhost:3000/news")
+    fetch("https://apiendpoints.herokuapp.com/news")
     .then((response)=> response.json())
     .then((data)=>setNews(data))
 
   },[])
   function formB(value){
-    fetch("http://localhost:3000/news",{
+    fetch("https://apiendpoints.herokuapp.com/news",{
       method:"POST",
       headers:{
         "content-type":"application/json"
